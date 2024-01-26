@@ -14,3 +14,173 @@ a {
 * {
   box-sizing: border-box;
 }
+/* currency.css */
+
+/* Container styling */
+.currency-container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f5f5f5;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Heading styling */
+.currency-heading {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+/* Input styling */
+.currency-input {
+  margin-bottom: 10px;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  width: 100%;
+}
+
+/* Button styling */
+.currency-button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.currency-button:hover {
+  background-color: #0056b3;
+}
+
+/* Result styling */
+.currency-result {
+  margin-top: 20px;
+  color: #333;
+}
+
+/* Additional styling based on your existing structure */
+/* Add more styles as needed */
+
+/* global.css */
+
+/* Container styling */
+.currency-container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f5f5f5;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Heading styling */
+.currency-heading {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+/* Input styling */
+.currency-input {
+  margin-bottom: 10px;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  width: 100%;
+}
+
+/* Button styling */
+.currency-button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.currency-button:hover {
+  background-color: #0056b3;
+}
+
+/* Result styling */
+.currency-result {
+  margin-top: 20px;
+  color: #333;
+}
+
+/* Additional styling based on your existing structure */
+/* Add more styles as needed */
+/* global.css */
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+
+h2 {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 10px;
+  margin-bottom: 20px;
+  width: 100%;
+  box-sizing: border-box;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+ol {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 15px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background-color: #fff;
+  transition: background-color 0.3s ease;
+}
+
+li:hover {
+  background-color: #f0f0f0;
+}
+
+button {
+  margin: 5px;
+  padding: 8px 12px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
